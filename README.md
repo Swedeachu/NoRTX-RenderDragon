@@ -1,4 +1,4 @@
-# SwimDragon
+# No RTX Render Dragon
 Fixes Render Dragon for all versions (only works on windows 10/11 with RTX GPUs)
 # Requirements
 Windows 10 or 11, an RTX GPU, and Admin on your PC
@@ -9,7 +9,7 @@ This forces bedrock to use dx12 without ray tracing, fixing all the performance 
 <br>
 This even fixes pink glitch somehow.
 # Downloads
-[SwimDragon.exe](https://github.com/Swedeachu/SwimDragon/releases/download/Public-Release-1.0/SwimDragon.exe)
+[NoDragon.exe](https://github.com/Swedeachu/SwimDragon/releases/download/Public-Release-1.0/SwimDragon.exe)
 <br>
 [C++ Installer if needed](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 # Credits
